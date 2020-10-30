@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/shane/catkin_ws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/shane/catkin_ws/src/around_view/include/**",
+                "/home/shane/catkin_ws/src/beginner_tutorials/include/**",
+                "/home/shane/catkin_ws/src/image_pipeline-noetic/depth_image_proc/include/**",
+                "/home/shane/catkin_ws/src/dynamic_surround_view/include/**",
+                "/home/shane/catkin_ws/src/gazebo_ros_pkgs/gazebo_plugins/include/**",
+                "/home/shane/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros/include/**",
+                "/home/shane/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros_control/include/**",
+                "/home/shane/catkin_ws/src/image_pipeline-noetic/image_proc/include/**",
+                "/home/shane/catkin_ws/src/sjtu-drone/include/**",
+                "/home/shane/catkin_ws/src/image_pipeline-noetic/stereo_image_proc/include/**",
+                "/home/shane/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/shane/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/shane/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
